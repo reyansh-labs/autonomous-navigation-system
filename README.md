@@ -144,7 +144,7 @@ I hope to continue building projects that combine technology and creativity to s
     Robot demonstration
 
 📂 docs/
-    Certificate
+    Presentation, Future Improvement
 
 README.md
 ```
