@@ -1,4 +1,4 @@
-# 🚗 Autonomous Robot Navigation
+# Autonomous Robot Navigation
 ### Self-Driving Vehicle (SDV) Engineering Project
 
 ## About This Project
@@ -114,7 +114,7 @@ In the future I would like to:
 
 # About Me
 
-Hi! I'm **Reyansh**, a Grade 7 student at Carnage Middle School in Raleigh, North Carolina.
+Hi! I'm **Reyansh**, a Grade 8 student at Carnage Middle School in Raleigh, North Carolina.
 
 I enjoy learning about:
 
@@ -142,6 +142,9 @@ I hope to continue building projects that combine technology and creativity to s
 
 📂 videos/
     Robot demonstration
+
+📂 docs/
+    Certificate
 
 README.md
 ```
