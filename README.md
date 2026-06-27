@@ -156,4 +156,4 @@ README.md
 Thank you for visiting my project!
 
 I'm excited to continue learning about robotics and autonomous systems, and I hope to build even more engineering projects in the future.
-<img width="468" height="646" alt="image" src="https://github.com/user-attachments/assets/05be88ff-836d-4cd0-b87d-787290ea8c4d" />
+
